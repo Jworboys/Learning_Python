@@ -3,6 +3,9 @@ l = ["Bob", "Rolf", "Anne"]
 
 # t will be representing a tuple - tuples can't be modifided once instantiated 
 t = ("Bob", "Rolf", "Anne")
+#When there is only one variable you still need a comma
+t = ("Bob",)
+
 
 # s will represent a set -  sets just can't have duplicate eliments.
 # lists and tuples keep the same order always with their ellements where as sets dont.
